@@ -1,6 +1,9 @@
 este es un nuevo archivo
 esta linea fue en features
 junto con esta otra
+<<<<<<< HEAD
 prueba 2
 pruebas 3
 esta la ultima linea
+=======
+>>>>>>> parent of e9c18d8... segundo  commit
