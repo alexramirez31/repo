@@ -7,3 +7,8 @@ pruebas 3
 esta la ultima linea
 =======
 >>>>>>> parent of e9c18d8... segundo  commit
+
+
+otro cambio
+especial
+
